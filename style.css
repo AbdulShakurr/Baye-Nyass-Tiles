@@ -287,7 +287,7 @@ html {
   letter-spacing: 0.2rem;
   text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.4);
   opacity: 0;
-  animation: moveBanner 1s 0.5s forwards;
+  animation: moveBanner 1.5s 0.5s forwards;
 }
 
 .banner p {
@@ -318,6 +318,9 @@ html {
   animation: moveBanner 1s 0.9s forwards;
 }
 
+.about-us,.projects,.tile-samples{
+  animation: moveBanner 2s 0.9s forwards;
+}
 .btn {
   width: 25rem;
   height: 7rem;
