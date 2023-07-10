@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tile Masters</title>
     <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
@@ -42,7 +43,7 @@
           <img src="images/bg.jfif" />
         </div>
         <div class="banner">
-          <h1>Baye Nyass Tiles</h1>
+          <h1>Tile Masters</h1>
           <p>Your last stop for your tiling needs</p>
           <a href="index.html#contact-us"><button>Request Estimate</button></a>
         </div>
@@ -51,7 +52,7 @@
       <section class="sidebar">
         <ul class="menu">
           <li class="menu-item">
-            <a href="index.html" class="menu-link" data-content="Home">Home</a>
+            <a href="index.php" class="menu-link" data-content="Home">Home</a>
           </li>
           <li class="menu-item">
             <a href="index.html#about-us" class="menu-link" data-content="About Us">About Us</a>
